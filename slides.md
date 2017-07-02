@@ -1,7 +1,7 @@
 
-# TPC 2017 Summary
+# TPC 2017 Wrapup
 
-<http://preaction.github.io/TPC-2017-Summary/>
+<http://preaction.github.io/TPC-2017-Wrapup/>
 
 <div style="width: 40%; float: left">
 
@@ -18,9 +18,7 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/TPC-2017-Summary/blob/master/NOTES.md)  
-<small> </small>  
-[Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Summary/)  
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Wrapup/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
@@ -187,7 +185,7 @@ Perl Parser: Regex
 
 # Thank You
 
-<http://preaction.github.io/TPC-2017-Summary/>
+<http://preaction.github.io/TPC-2017-Wrapup/>
 
 <div style="width: 40%; float: left">
 
@@ -204,9 +202,9 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/TPC-2017-Summary/blob/master/NOTES.md)  
+[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/TPC-2017-Wrapup/blob/master/NOTES.md)  
 <small> </small>  
-[Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Summary/)  
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Wrapup/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
