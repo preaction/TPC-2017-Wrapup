@@ -35,6 +35,9 @@ For full-screen, press `F`
 
 # TPC::NA 2017
 
+<span class="attrib" data-markdown>
+[photo from the Perl Events Instagram feed](https://www.instagram.com/p/BVkQIh6nAXm/)
+</span>
 ---
 <!-- .slide: data-background-image="images/uspto-madison-room.jpg" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
 
@@ -42,6 +45,9 @@ For full-screen, press `F`
 
 Alexandria, VA
 
+<span class="attrib" data-markdown>
+[photo from the Perl Events Instagram feed](https://www.instagram.com/p/BVh3qWzHDnj/)
+</span>
 ------
 
 # Talks
@@ -91,6 +97,9 @@ YouTube](https://www.youtube.com/watch?v=n-st1-DpKHI&index=39&list=PLA9_Hq3zhoFx
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SYmdef_WQsw&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m&index=8)
 
+<span class="attrib" data-markdown>
+[photo from the Perl Events Instagram feed](https://www.instagram.com/p/BVrEZvmHfCl/)
+</span>
 ---
 <!-- .slide: data-background-image="images/sawyer-jacket.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
 <h1 class="fragment fade-in">Pumpkin(g) Jacket</h1>
