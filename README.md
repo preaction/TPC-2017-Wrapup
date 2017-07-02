@@ -1,22 +1,10 @@
 
-# TALK NAME
+# The Perl Conference 2017 Wrap-up
 
-This presentation covers TALK TOPIC
+This presentation covers some highlights from [The Perl Conference
+2017](http://www.perlconference.us/tpc-2017-dc/)
 
-* [View the talk](http://preaction.github.io/REPO_NAME/)
-* [Read the notes](http://github.com/preaction/REPO_NAME/blob/master/NOTES.md)
-
-## Abstract
-
-## Covered Topics
-
-TBA
-
-# AUTHOR
-
-About the author.
-
-Speaking credentials.
+* [View the talk](http://preaction.github.io/TPC-2017-Wrapup/)
 
 # COPYRIGHT AND LICENSE
 
