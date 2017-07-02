@@ -18,6 +18,8 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
+<small> </small>  
+<small> </small>  
 [Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Wrapup/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
@@ -202,7 +204,7 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/TPC-2017-Wrapup/blob/master/NOTES.md)  
+<small> </small>  
 <small> </small>  
 [Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Wrapup/)  
 
