@@ -1,7 +1,7 @@
 
-# TALK_NAME
+# TPC 2017 Summary
 
-<http://preaction.github.io/REPO_NAME/>
+<http://preaction.github.io/TPC-2017-Summary/>
 
 <div style="width: 40%; float: left">
 
@@ -18,9 +18,9 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/REPO_NAME/blob/master/NOTES.md)  
+[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/TPC-2017-Summary/blob/master/NOTES.md)  
 <small> </small>  
-[Source on <i class="fa fa-github"></i>](https://github.com/preaction/REPO_NAME/)  
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Summary/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
@@ -31,12 +31,153 @@ For full-screen, press `F`
 </div>
 
 ------
+<!-- .slide: data-background-image="images/t-shirt.jpg" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
 
-Use ------ between columns
+# TPC::NA 2017
 
-Use --- between rows
+---
+<!-- .slide: data-background-image="images/uspto-madison-room.jpg" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
 
-Use Note: to introduce speaker notes
+# USPTO
+
+Alexandria, VA
+
+------
+
+# Talks
+
+---
+
+<!-- .slide: data-background-image="images/talk-joel-house.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<div data-markdown style="margin-top: 12em">
+[Watch on YouTube](https://www.youtube.com/watch?v=aJc5yYONBBc&index=32&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m)
+</div>
+---
+
+<!-- .slide: data-background-image="images/talk-swift.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<div data-markdown style="margin-top: 12em">
+[Watch on
+YouTube](https://www.youtube.com/watch?v=n-st1-DpKHI&index=39&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m)
+</div>
+---
+
+<!-- .slide: data-background-image="images/talk-dart.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<div data-markdown style="margin-top: 12em">
+[Watch on YouTube](https://www.youtube.com/watch?v=cDMMF_b7Kbs&index=5&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m)
+</div>
+---
+
+<!-- .slide: data-background-image="images/talk-women.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<div data-markdown style="margin-top: 12em">
+[Watch on YouTube](https://www.youtube.com/watch?v=7N3dR2y3Fi8&index=56&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m)
+</div>
+---
+
+<!-- .slide: data-background-image="images/talk-travel-ban.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<div data-markdown style="margin-top: 12em">
+[Watch on YouTube](https://www.youtube.com/watch?v=lc0gjymliOI&index=33&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m)
+</div>
+---
+
+<!-- .slide: data-background-image="images/talk-election-rt.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<div data-markdown style="margin-top: 12em">
+[Watch on YouTube](https://www.youtube.com/watch?v=0-fIOLpIyz0&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m&index=35)
+</div>
+------
+
+<!-- .slide: data-background-image="images/sawyer-keynote.jpg" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+
+# Keynote: Perl 5.26
+
+[Watch on YouTube](https://www.youtube.com/watch?v=SYmdef_WQsw&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m&index=8)
+
+---
+<!-- .slide: data-background-image="images/sawyer-jacket.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+<h1 class="fragment fade-in">Pumpkin(g) Jacket</h1>
+
+---
+
+# `.` in `@INC`
+
+[Watch this section on YouTube](https://youtu.be/SYmdef_WQsw?t=9m28s)
+
+---
+<!-- .slide: data-background-image="images/sawyer-security.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+---
+<!-- .slide: data-background-image="images/sawyer-heredoc.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+
+# Indented `HEREDOC`
+
+---
+
+```perl
+if ( $ok ) {
+    $dbh->selectall_array( <<ENDSQL
+        SELECT
+            id,
+            DATE_FORMAT( '%Y-%m-%d', datetime ) AS datetime,
+            summary,
+            facts
+        FROM
+            test_report
+        WHERE
+            dist=?
+            AND state="pass"
+        ENDSQL
+}
+```
+
+---
+<!-- .slide: data-background-image="images/sawyer-avocado.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+
+# 🤦
+
+---
+<!-- .slide: data-background-image="images/sawyer-diff.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+---
+
+```perl
+if ( $ok ) {
+<<<<<< HEAD
+    return "Old boring";
+======
+    return "New hotness";
+>>>>>> ab0914fd
+}
+```
+---
+<!-- .slide: data-background-image="images/sawyer-xx.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+---
+<!-- .slide: data-background-image="images/sawyer-refalias.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+---
+<!-- .slide: data-background-image="images/sawyer-scalar-hash.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+---
+<!-- .slide: data-background-image="images/sawyer-thanks.png" data-background-size="contain" data-background-position="center" data-background-repeat="no-repeat" data-background="#000" -->
+------
+
+# Damien Conway
+
+---
+
+# Dios
+
+---
+
+# Keyword::Declare
+
+---
+
+# PPR
+
+Perl Parser: Regex
+
+---
+
+## You Can Parse Perl With Regex!
+
+------
+
+# Your Thoughts
 
 ------
 
@@ -46,7 +187,7 @@ Use Note: to introduce speaker notes
 
 # Thank You
 
-<http://preaction.github.io/REPO_NAME/>
+<http://preaction.github.io/TPC-2017-Summary/>
 
 <div style="width: 40%; float: left">
 
@@ -63,9 +204,9 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/REPO_NAME/blob/master/NOTES.md)  
+[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/TPC-2017-Summary/blob/master/NOTES.md)  
 <small> </small>  
-[Source on <i class="fa fa-github"></i>](https://github.com/preaction/REPO_NAME/)  
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/TPC-2017-Summary/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
